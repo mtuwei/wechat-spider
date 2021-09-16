@@ -24,7 +24,7 @@ cd wechat_spider
 npm install
 ```
 
-本项目基于代理模块 AnyProxy，解析微信 HTTPS 请求需在电脑和手机上都安装证书。可参考：[AnyProxy 文档](http://anyproxy.io/cn/#%E8%AF%81%E4%B9%A6%E9%85%8D%E7%BD%AE)。
+本项目基于代理模块 AnyProxy，解析微信 HTTPS 请求，需在电脑和手机上都安装证书。可参考：[AnyProxy 文档](http://anyproxy.io/cn/#%E8%AF%81%E4%B9%A6%E9%85%8D%E7%BD%AE)。
 
 ### 通过 Docker 部署
 
